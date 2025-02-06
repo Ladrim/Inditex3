@@ -23,4 +23,6 @@ public class ProductAdapter
     }
 
     //EN LA TAREA2 SE HACEN 2 CAMBIOS
+    //EN LA TAREA2 SE HACEN 3 CAMBIOS
+
 }
