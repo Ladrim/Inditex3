@@ -22,4 +22,5 @@ public class ProductAdapter
         return new Product(productName,productId,priceList);
     }
 
+    //EN LA TAREA2 SE HACEN 2 CAMBIOS
 }
