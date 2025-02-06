@@ -21,6 +21,8 @@ public class Product
 
     public Price findBy(Date date, BrandId brandId)
     {
-        priceList.stream().filter(it->it.getDateInterval().)
+        return null;
+        //null por los loles morenos rellenos
+        //fin
     }
 }
